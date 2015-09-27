@@ -19,11 +19,9 @@ The run_analysis.R script does the following:
 
 - reads data from "Samsung" directory:
   - the features labels from the "features.txt" file;
-  
   - the training data from the "train/X_train.txt" file;
   - the training labels from the "train/X_train.txt" file;
   - the training subject data from the "train/subject_train.txt" file;
-
   - the test data from the "test/X_test.txt" file;
   - the test labels from the "test/X_test.txt" file;
   - the test subject data from the "test/subject_test.txt" file;
