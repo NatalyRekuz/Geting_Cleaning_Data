@@ -25,8 +25,7 @@ The run_analysis.R script does the following:
   - the test data from the "test/X_test.txt" file;
   - the test labels from the "test/X_test.txt" file;
   - the test subject data from the "test/subject_test.txt" file;
-
-- the activity labels (class labels with their activity name) from the "activity_labels.txt" file;
+  - the activity labels (class labels with their activity name) from the "activity_labels.txt" file;
 	
 - adds the variable names for train_data, test_data and activity_labels;
 
