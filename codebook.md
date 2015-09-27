@@ -23,7 +23,7 @@ The set of variables that were estimated from these signals (in accordance with 
 - "average_value" - numeric ranges from [-1,1], describes the means of the measurements.
 
 
-### Description of the levels of variable "features"
+### Description of the levels of "feature" variable
 
 tBodyAcc-mean()-X - mean of the mean of the body acceleration signals on the x axis in standard gravity units(g)
 
