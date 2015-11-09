@@ -1,15 +1,3 @@
-# Preliminary steps:
-# 1. download the dataset:
-# if (!file.exists(filename)){
-#    fileURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%
-#2FUCI%20HAR%20Dataset.zip"
-#    download.file(fileURL, filename)
-# }
-# 2. unzip the dataset: 
-# if (!file.exists("UCI HAR Dataset")) { 
-#    unzip(filename)    
-# }
-
 # This script can be run as long as the Samsung data is in the working directory
 
 library("dplyr")
